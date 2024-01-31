@@ -39,7 +39,7 @@ boxes.forEach((box) => {
 });
 
 
-// for rest and new game 
+// for reset and new game 
 newgameBtn.addEventListener("click",resetGame);
 resetbtn.addEventListener("click",resetGame)
 
